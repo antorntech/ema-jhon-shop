@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@600;700&family=Dosis:wght@500&family=Fira+Code:wght@500&family=Lato:wght@300&family=Lobster&family=Lobster+Two:ital,wght@1,700&family=Open+Sans&family=Poppins&family=Ubuntu:wght@500&display=swap');
+
+.header {
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 36px;
+    font-size: 17px;
+    font-family: 'Lato';
+    transition: .5s;
+}
+
+.header a:hover {
+    color: #d48326;
+}
